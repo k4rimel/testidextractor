@@ -5,7 +5,7 @@ Tool to extract ids from HTML files
 NodeJS 
 
 # Installation
-`npm install'
+`npm install`
 
 # Usage
 `node app.js <folder-path>`
